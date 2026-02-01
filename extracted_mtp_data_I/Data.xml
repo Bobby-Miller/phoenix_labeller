@@ -1,0 +1,508 @@
+<?xml version="1.0" ?>
+<Project DataCreation="26-01-30 10/03" DataLastModyfication="26-01-30 10/03" Version="12" OrderNumberOfCopy="1">
+    <LogicNode RefId="1">
+        <ParentRefId>-1</ParentRefId>
+        <Name>VW05dmRBPT0=</Name>
+        <Level>-1</Level>
+    </LogicNode>
+    <Material Name="TR_WML6(13X13)R" Device="D17" Height="35.75" Width="175" OrderMaterialColor="0816252:WH" TransformedByAngle="0">
+        <Label Index="0" OrderIndex="0" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDE=</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="1" OrderIndex="1" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDI=</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="2" OrderIndex="2" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDM=</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="3" OrderIndex="3" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDQ=</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="4" OrderIndex="4" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDU=</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="5" OrderIndex="5" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDY=</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="6" OrderIndex="6" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDc=</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+    </Material>
+    <Material Name="TR_WML6(13X13)R" Device="D17" Height="35.75" Width="175" OrderMaterialColor="0816252:WH" TransformedByAngle="0">
+        <Label Index="0" OrderIndex="0" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDg=</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="1" OrderIndex="1" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDk=</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="2" OrderIndex="2" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDEw</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="3" OrderIndex="3" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDEx</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="4" OrderIndex="4" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDEy</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="5" OrderIndex="5" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDEz</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="6" OrderIndex="6" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDE0</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+    </Material>
+    <Material Name="TR_WML6(13X13)R" Device="D17" Height="35.75" Width="175" OrderMaterialColor="0816252:WH" TransformedByAngle="0">
+        <Label Index="0" OrderIndex="0" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDE1</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="1" OrderIndex="1" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDE2</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="2" OrderIndex="2" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDE3</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="3" OrderIndex="3" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDE4</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="4" OrderIndex="4" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDE5</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="5" OrderIndex="5" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDIw</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="6" OrderIndex="6" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDIx</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+    </Material>
+    <Material Name="TR_WML6(13X13)R" Device="D17" Height="35.75" Width="175" OrderMaterialColor="0816252:WH" TransformedByAngle="0">
+        <Label Index="0" OrderIndex="0" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDIy</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="1" OrderIndex="1" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>dGVzdDIz</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="2" OrderIndex="2" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>ZGVmYXVsdA==</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="3" OrderIndex="3" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>ZGVmYXVsdA==</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="4" OrderIndex="4" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>ZGVmYXVsdA==</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="5" OrderIndex="5" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>ZGVmYXVsdA==</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+        <Label Index="6" OrderIndex="6" IsPrinted="false" TreeRefId="1" HorizontalAlign="Center" VerticalAlign="Center" Rotation="0" Width="12.7" Height="12.7" Mirrored="false" GroupID="0" LineSpacing="1" ContentProtection="false" PrintedTime="2026-01-29T13:55:49.5675461-05:00" CurrentColor="0, 0, 0" Section="0">
+            <TextRange>
+                <Color>0, 0, 0</Color>
+                <Text>ZGVmYXVsdA==</Text>
+                <Font Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                    <Name>Arial Narrow</Name>
+                </Font>
+            </TextRange>
+            <CutOrPerforations/>
+            <DefaultFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial</Name>
+            </DefaultFont>
+            <CurrentFont Size="2.5" Type="TTF" LineThickness="0" Stretching="1.5" Proportional="false" Kerning="false" WidthFactor="1" FormattingType="0">
+                <Name>Arial Narrow</Name>
+            </CurrentFont>
+        </Label>
+    </Material>
+    <WireInformationColumns ColumnId="MaterialDisplayNameColumn" Index="0" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="IndexOfWireColumn" Index="1" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="CrossSectionColumn" Index="2" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="CrossSectionUnitColumn" Index="3" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="WireColorDescriptorColumn" Index="4" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="PartNumberColumn" Index="5" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="OrderNumberColumn" Index="6" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="TypeDesignationColumn" Index="7" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="WireLengthColumn" Index="8" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="WireDiameterColumn" Index="9" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="WireDiameterUnitColumn" Index="10" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="EndSourceDirectionDescriptorColumn" Index="11" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="EndTargetDirectionDescriptor" Index="12" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="SourceColumn" Index="13" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="RoutingTrackColumn" Index="14" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="TargetColumn" Index="15" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="NumberOfCopiesColumn" Index="16" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="PrintStatusColumn" Index="17" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="PrintStampColumn" Index="18" IsReadonly="true" AdditionalColumn="false" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="FunctionalAssignmentSourceColumn" Index="19" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="FunctionalAssignmentTargetColumn" Index="20" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="HighLevelFunctionSourceColumn" Index="21" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="HighLevelFunctionTargetColumn" Index="22" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="InstallationSiteSourceColumn" Index="23" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="InstallationSiteTargetColumn" Index="24" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="MountingLocationSourceColumn" Index="25" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="MountingLocationTargetColumn" Index="26" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="DtSourceColumn" Index="27" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="DtTargetColumn" Index="28" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="ConnectionPointSourceColumn" Index="29" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="ConnectionPointTargetColumn" Index="30" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="PageSourceColumn" Index="31" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="PageTargetColumn" Index="32" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="WireTerminationProcessingSourceColumn" Index="33" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="WireTerminationProcessingTargetColumn" Index="34" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="StrippingLengthSourceColumn" Index="35" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="StrippingLengthTargetColumn" Index="36" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="ConnectionDimensionSourceColumn" Index="37" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="ConnectionDimensionTargetColumn" Index="38" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <WireInformationColumns ColumnId="ConnectionDesignationColumn" Index="39" IsReadonly="true" AdditionalColumn="true" HeaderText="" IsVisible="false"/>
+    <CadDataBase>
+        <Entrys/>
+    </CadDataBase>
+    <Resources/>
+</Project>

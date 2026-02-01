@@ -1,0 +1,440 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Project DataCreation="26-01-29 15/56" DataLastModyfication="26-01-29 15/56" Version="12" OrderNumberOfCopy="1">
+  <LogicNode RefId="1">
+    <ParentRefId>-1</ParentRefId>
+    <Name>VW05dmRBPT0=</Name>
+    <Level>-1</Level>
+  </LogicNode>
+  <Material Name="TR_WML6(13X13)R" Device="D17" Height="35.75" Width="175" OrderMaterialColor="0816252:WH">
+    <Label Index="0" OrderIndex="0" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDE=</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="1" OrderIndex="1" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDI=</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="2" OrderIndex="2" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDM=</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="3" OrderIndex="3" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDQ=</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="4" OrderIndex="4" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDU=</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="5" OrderIndex="5" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDY=</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="6" OrderIndex="6" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDc=</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+  </Material>
+  <Material Name="TR_WML6(13X13)R" Device="D17" Height="35.75" Width="175" OrderMaterialColor="0816252:WH">
+    <Label Index="0" OrderIndex="0" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDg=</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="1" OrderIndex="1" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDk=</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="2" OrderIndex="2" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDEw</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="3" OrderIndex="3" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDEx</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="4" OrderIndex="4" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDEy</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="5" OrderIndex="5" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDEz</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="6" OrderIndex="6" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDE0</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+  </Material>
+  <Material Name="TR_WML6(13X13)R" Device="D17" Height="35.75" Width="175" OrderMaterialColor="0816252:WH">
+    <Label Index="0" OrderIndex="0" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDE1</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="1" OrderIndex="1" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDE2</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="2" OrderIndex="2" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDE3</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="3" OrderIndex="3" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDE4</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="4" OrderIndex="4" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDE5</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="5" OrderIndex="5" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDIw</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="6" OrderIndex="6" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDIx</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+  </Material>
+  <Material Name="TR_WML6(13X13)R" Device="D17" Height="35.75" Width="175" OrderMaterialColor="0816252:WH">
+    <Label Index="0" OrderIndex="0" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDIy</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="1" OrderIndex="1" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text>dGVzdDIz</Text>
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="2" OrderIndex="2" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text />
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="3" OrderIndex="3" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text />
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="4" OrderIndex="4" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text />
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="5" OrderIndex="5" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text />
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+    <Label Index="6" OrderIndex="6" IsPrinted="true" TreeRefId="1">
+      <TextRange>
+        <Color>0, 0, 0</Color>
+        <Text />
+      </TextRange>
+      <Font Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </Font>
+      <DefaultFont Size="2" Type="TTF">
+        <Name>Arial</Name>
+      </DefaultFont>
+      <CurrentFont Size="2" Type="TTF">
+        <Name>Arial Narrow</Name>
+      </CurrentFont>
+    </Label>
+  </Material>
+  <WireInformationColumns ColumnId="MaterialDisplayNameColumn" Index="0" />
+  <WireInformationColumns ColumnId="IndexOfWireColumn" Index="1" />
+  <CadDataBase />
+  <Resources />
+</Project>
