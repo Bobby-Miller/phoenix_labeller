@@ -7,4 +7,6 @@ requires-python = ">=3.14"
 dependencies = [
     "openpyxl>=3.1.5",
     "pandas>=3.0.0",
+    "textual>=7.5.0",
+    "textual-fspicker>=0.6.0",
 ]

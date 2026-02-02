@@ -234,6 +234,13 @@ def pretty_xml_data(xml_data):
 
     return pretty_xml
 
+def generate_mtp_solution(source_xlsx, mat_file_location, output_mtp_filename):
+    labels = load_labels(source_xlsx)
+    if labels:
+        xml_data = create_data_xml(labels)
+        pretty_xml = pretty_xml_data(xml_data)
+        generate_mtp(output_mtp_filename, mat_file_location, pretty_xml)
+        # extract_mtp_content(output_mtp_filename, "extracted_mtp_data_J")
 
 def main():
     # --- Execution ---
@@ -244,8 +251,8 @@ def main():
         pretty_xml = pretty_xml_data(xml_data)
         # print(pretty_xml_data(xml_data))
         # print(xml_data)
-        generate_mtp("AUTOGEN_CONFIG_J.mtp", "extracted_mtp_data/Materials/TR_WML6(13X13)R.mat", pretty_xml)
-        extract_mtp_content('AUTOGEN_CONFIG_J.mtp', "extracted_mtp_data_J")
+        # generate_mtp("AUTOGEN_CONFIG_J.mtp", "extracted_mtp_data/Materials/TR_WML6(13X13)R.mat", pretty_xml)
+        extract_mtp_content('blah.mtp', "blah_a")
 
 
 if __name__ == "__main__":
